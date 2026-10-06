@@ -1,0 +1,16 @@
+[
+  {
+    "deviceId": "SS-D10CD553CA9261E2",
+    "createdAt": "2026-10-06T01:52:16.597Z",
+    "fishermanName": "Gowthaman V",
+    "boatName": "",
+    "gpsStatus": "UNKNOWN",
+    "esp32Status": "UNKNOWN",
+    "alertStatus": "SAFE",
+    "latitude": 10.8261364,
+    "longitude": 77.06038748,
+    "speed": 0,
+    "lastSeen": "2026-10-06T01:59:35.680Z",
+    "_lastBroadcastStatus": "OFFLINE"
+  }
+]
